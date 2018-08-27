@@ -1,3 +1,12 @@
+# Color fitting app.:
+#~ little tool to color fitting. Chose theme for Your website!
+
+
+
+
+
+
+
 # Angular2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
