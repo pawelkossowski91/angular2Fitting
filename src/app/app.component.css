@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+ }
+
+a {
+     margin-left: 10px;
+ }
+
+input {
+     margin-left: 30px;
+ }
+
+
+
+
+
+ #navBar {
+     border-bottom-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+ }
+
+ #footer {
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+ }
