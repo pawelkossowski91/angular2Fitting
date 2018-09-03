@@ -1,7 +1,9 @@
 # Color fitting app.:
 #~ little tool to color fitting. Chose theme for Your website!
 
-You can chose layout or use random color.
+
+Little tool to color fitting. Chose theme for Your website. You can chose layout or use
+random color. This app is still in progress. This is part of my Angular learning.
 
 
 ![image](https://pawelkossowski91.github.io/angular2Fitting/imgRead2.png)
